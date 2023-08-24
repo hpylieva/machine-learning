@@ -2,13 +2,6 @@
 
 # # Datacenter anomaly detection
 
-# In this problem, you are going to build a model, which finds anomalies in the behavior of virtual machines in the datacenter.
-# 
-# We have collected for you a number of logs on VMs (actually, the dataset is a real data from a real datacenter). The logs are CPU load and memory load (RAM) for every VM. Your goal is to build a system detecting abnormal behavior of the VMs so that the system administrator can notice them and pay attention.
-# 
-# The data and Jupyter notebook file with some pre-defined code for you can be found in the folder datacenter.
-# 
-# Take a look at <b>system-load.csv</b>. This is a raw data file, partially preprocessed for you. You can open it in any text editor or table editor such as Excel. CSV is one of the most popular data format files, you will often use in in your study and at work. It is worth to investigate how it looks in details.
 
 # In[3]:
 
